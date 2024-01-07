@@ -12,3 +12,6 @@ Conducted comprehensive analysis of Fast-Moving Consumer Goods (FMCG)data to unc
 •Leveraged proficiency in Excel, MySQL, and Power BI to streamline sales data management and analytics, achieving a 15% increase in sales efficiency.
 •Designed and implemented a data-driven sales analysis dashboard that fueled a 10% surge in sales by providing actionable insights to sales teams.
 
+![1creenshot 2024-01-07 124156](https://github.com/shanukumar007/Analyzing-Consumer-Behavior-in-the-FMCG-Industry/assets/144050399/be03bbc9-9d44-471a-9a64-2c1058b43e10)
+
+![2Screenshot 2024-01-07 125514](https://github.com/shanukumar007/Analyzing-Consumer-Behavior-in-the-FMCG-Industry/assets/144050399/8259d43f-ccd4-4f82-97b5-85cc5273420a)
